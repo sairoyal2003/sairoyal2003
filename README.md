@@ -50,10 +50,10 @@
 ## Contributors & TEAM MEMBERS
 
 
-MEDA SAAI KARTHIK         -SAIROYAL2003@GMAIL.COM
+MEDA SAAI KARTHIK         -SAIROYAL2003@GMAIL.COM & -9921004445@klu.ac.in  
 
-Y.V.PRANEETH REDDY        -yammanurupraneeth@gmail.com
+Y.V.PRANEETH REDDY        -yammanurupraneeth@gmail.com & -9921004780@klu.ac.in
 
-SINGAM VARUN KUMAR REDDY  -varunkumarreddysingam9@gmail.com
+SINGAM VARUN KUMAR REDDY  -varunkumarreddysingam9@gmail.com & -99210041777@klu.ac.in
 
-M.SRAVAN SRINIVAS RAJ     -middiboinasravan2105@gmail.com
+M.SRAVAN SRINIVAS RAJ     -middiboinasravan2105@gmail.com & -9921004919@klu.ac.in
