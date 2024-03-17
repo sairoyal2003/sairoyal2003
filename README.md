@@ -47,7 +47,12 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
-## Contributors & TEAM MEMBERS
+
+## TILE OF THE PROJECT :- 
+Generative AI Art Creation
+
+## Contributors & TEAM MEMBERS 
+Team Number : VH092
 
 
 MEDA SAAI KARTHIK         -SAIROYAL2003@GMAIL.COM & -9921004445@klu.ac.in  
@@ -57,3 +62,22 @@ Y.V.PRANEETH REDDY        -yammanurupraneeth@gmail.com & -9921004780@klu.ac.in
 SINGAM VARUN KUMAR REDDY  -varunkumarreddysingam9@gmail.com & -99210041777@klu.ac.in
 
 M.SRAVAN SRINIVAS RAJ     -middiboinasravan2105@gmail.com & -9921004919@klu.ac.in
+
+
+## PROBLEM STATEMENT
+AI-GENERATED ARTWORK CREATOR
+
+## WAYS TO APPROACH
+1. Frontend: HTML, CSS, JavaScript (React or Vue.js for dynamic interfaces)
+  
+2. Backend:Python (Django or Flask for server-side logic)
+  
+3. Machine Learning: TensorFlow or PyTorch for AI model training
+  
+4. Database: PostgreSQL or MongoDB for storing user data and preferences
+  
+5. Image Processing: OpenCV for manipulating and enhancing artwork
+  
+6. Cloud Services: AWS or Google Cloud for hosting and scalability
+  
+7. Version Control: Git for collaborative development and tracking changes
