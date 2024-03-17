@@ -47,3 +47,10 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
+## Contributors & TEAM MEMBERS
+
+
+MEDA SAAI KARTHIK         -SAIROYAL2003@GMAIL.COM
+Y.V.PRANEETH REDDY        -yammanurupraneeth@gmail.com  
+SINGAM VARUN KUMAR REDDY  -varunkumarreddysingam9@gmail.com
+M.SRAVAN SRINIVAS RAJ     -middiboinasravan2105@gmail.com
